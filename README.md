@@ -10,3 +10,7 @@
 **Wind Speed:** Provides the current wind speed and direction.
 
 **Air Pressure:** Sometimes included, showing the atmospheric pressure.
+
+**#image**
+![weather jpg](https://github.com/user-attachments/assets/c625ebfd-7768-4d5a-b34b-c5218608ac87)
+
